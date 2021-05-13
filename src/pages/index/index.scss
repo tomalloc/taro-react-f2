@@ -1,0 +1,9 @@
+.page-index {
+  .chart {
+    padding: 5px 10px 0 10px;
+    height: 360px;
+  }
+  .chart + .chart {
+    margin-top: 10px;
+  }
+}
